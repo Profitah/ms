@@ -29,8 +29,9 @@ Phone_numbr[1] = Siri['phone_number']
 Phone_numbr[2] = Bixby['phone_number']
 
 
-print(Name)
-print(Age)
-print(Birthday)
-print(Sex)
+print("이름 리스트는", Name)
+print("나이 리스트는", Age)
+print("생일 리스트는",Birthday)
+print("성별 리스트는", Sex)
+print("전화번호 리스트는", Phone_numbr)
 print(Phone_numbr)
